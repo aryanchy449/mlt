@@ -14,5 +14,5 @@ jobs:
 
     steps:
     
-    - name: hi
+    - name: h
       run: docker run -p 8080:8080 admin44449999/bot1
